@@ -13,8 +13,8 @@
 Redesigning the website for GiddyDBar and adding a cms to it. <br>
 Cool VR + AR stuff at Immersive Studios
 
-- 🌱 I’m currently learning Unity
-Web Backend
+- 🌱 I’m currently learning Unity,
+Web Backend,
 Machine Learning 
 
 - 💬 Talk to me about VR, Web Dev Opportunites, Open Source, JavaScript, C# 
