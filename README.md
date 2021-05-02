@@ -17,7 +17,7 @@ Cool VR + AR stuff at Immersive Studios
 Web Backend,
 Machine Learning 
 
-- 💬 Talk to me about VR, Web Dev Opportunites, Open Source, JavaScript, C# 
+- 💬 Talk to me about VR, Web Dev, Open Source, JavaScript, C#
 
 <h2> Skills </h2>
 <a href= https://github.com/BrandonBartram98?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
