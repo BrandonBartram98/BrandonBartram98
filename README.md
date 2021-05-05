@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-- Currently a Junior Dev at Immersive Studios
+- :smirk_cat: Currently a Junior Dev at Immersive Studios
 
 - 🔭 I’m currently working on Redesign of my portfolio site and adding a blog to it. <br>
 Redesigning the website for GiddyDBar and adding a cms to it. <br>
@@ -19,7 +19,7 @@ Cool VR + AR stuff at Immersive Studios
 Web Backend,
 Machine Learning 
 
-- 💬 Talk to me about VR, Web Dev, Open Source, JavaScript, C#
+- 💬 Talk to me about VR, Game Dev, Web Dev, C#, Javascript
 
 <h2> Skills </h2>
 <a href= https://github.com/BrandonBartram98?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
