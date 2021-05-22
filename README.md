@@ -9,10 +9,10 @@
 
 <h2> About Me </h2>
 
-- :smirk_cat:  Currently a Junior Dev at Immersive Studios
+- :smirk_cat:  Currently a Junior Dev
 
-- 🔭  Working on Redesign of my portfolio site and adding a blog to it. <br>
-Redesigning the website for GiddyDBar and adding a cms to it. <br>
+- 🔭  Working on Redesign of my portfolio site and adding a blog. <br>
+Redesigning the website for GiddyDBar with a cms. <br>
 Cool VR + AR stuff at Immersive Studios
 
 - 🌱  Learning Unity,
