@@ -9,15 +9,11 @@
 
 <h2> About Me </h2>
 
-- :smirk_cat:  Currently a Junior Dev
+- :smirk_cat: Junior Dev
 
-- 🔭  Working on Redesign of my portfolio site and adding a blog. <br>
-Redesigning the website for GiddyDBar with a cms. <br>
-Cool VR + AR stuff at Immersive Studios
+- 🔭 Working on immersive tech at Immersive Studios
 
-- 🌱  Learning Unity,
-Web Backend,
-Machine Learning 
+- 🌱  Learning ThreeJS, Unity, Blender
 
 - 💬 Talk to me about VR, Game Dev, Web Dev, C#, Javascript
 
