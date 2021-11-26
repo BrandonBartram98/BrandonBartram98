@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=BrandonBartram98.BrandonBartram98)
 
 </p>
-<div size='20px'> Hi :smile: 
+<div size='20px'> Hello :smile: 
 </div>
 
 <h2> About Me </h2>
