@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
 
-- :smirk_cat: Junior Dev
+- :smirk_cat: Web & Game Dev
 
 - 🔭 Working on immersive tech at Immersive Studios
 
