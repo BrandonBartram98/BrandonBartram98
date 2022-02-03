@@ -14,3 +14,5 @@
 - 🔭 Working on immersive tech at Immersive Studios
 
 - 🌱  Learning ThreeJS, Unity, Blender
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
