@@ -9,7 +9,7 @@
 
 - 🔭 Working on immersive tech at Immersive Studios
 
-- 🌱  Learning WEB 3.0, ThreeJS, Unity, Blender
+- 🌱  Learning ThreeJS & Unity
 <br />
 
 
