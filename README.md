@@ -7,7 +7,7 @@
 
 - :smirk_cat: Web & Game Dev
 
-- 🔭 Working on immersive tech at Immersive Studios
+- 🔭 Working on immersive tech at We Are Immersive
 
 - 🌱  Learning WebGL
 <br />
