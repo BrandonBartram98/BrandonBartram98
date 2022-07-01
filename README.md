@@ -9,7 +9,7 @@
 
 - 🔭 Working on immersive tech at We Are Immersive
 
-- 🌱  Learning WebGL
+- 🌱  Learning Web Frameworks + Unreal Engine
 <br />
 
 
