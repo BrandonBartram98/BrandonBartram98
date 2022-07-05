@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
 
-- :smirk_cat: Web & Game Dev
+- :smirk_cat: Game & Web Developer
 
 - 🔭 Working on immersive tech at We Are Immersive
 
