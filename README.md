@@ -9,6 +9,8 @@
 
 - 🔭 Working on immersive tech at We Are Immersive
 
+- :blue_heart: Currently learning React + Next.js
+
 <br />
 
 
