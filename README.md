@@ -7,7 +7,7 @@
 
 - :smirk_cat: Game & Web Developer
 
-- 🔭 Working on immersive tech at We Are Immersive
+- 🔭 Working on Free-Roam VR games at Xist VR
 
 - :blue_heart: Currently learning React + Next.js
 
