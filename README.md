@@ -11,7 +11,7 @@
 
 - 🧑‍💻 Game/Web Developer & WebGL enthusiast
 
-- 🔭 Working on Free-Roam VR games at Xist VR
+- 🔭 Working on Free-Roam/Shared Space VR games at Xist VR
 
 <br />
 
