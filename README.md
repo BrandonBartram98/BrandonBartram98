@@ -9,7 +9,7 @@
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- 🧑‍💻 Game/Web Developer
+- 🧑‍💻 Game & Web Developer
 
 - 🔭 Working on VR games for the Xist platform at Xist VR
 
