@@ -13,6 +13,8 @@
 
 - 🔭 Working on VR games for the Xist platform at Xist VR
 
+- [`My Personal Site`](https://brandonbartram.vercel.app/)
+
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandonBartram98)](https://git.io/streak-stats)
