@@ -13,7 +13,7 @@
 
 - 🔭 Working on VR games for the Xist platform at Xist VR
 
-- [`My Personal Site`](https://brandonbartram.vercel.app/)
+- [`My Personal Site`](https://brandonbartram.dev/)
 
 <br />
 
