@@ -13,6 +13,8 @@
 
 - 🔭 Working on VR games for the Xist platform at Xist VR
 
+- 🕸 Working on Web projects in my own time
+
 - [`My Personal Site`](https://brandonbartram.dev/)
 
 <br />
