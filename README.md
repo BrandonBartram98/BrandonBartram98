@@ -11,7 +11,7 @@
 
 - 🧑‍💻 Game & Web Developer
 
-- 🔭 Working on VR games for the Xist platform at Xist VR
+- 🔭 Working at We Are Immersive
 
 - 🕸 Working on Web projects in my own time
 
