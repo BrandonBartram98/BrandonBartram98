@@ -11,7 +11,7 @@
 
 - 🧑‍💻 Game & Web Developer
 
-- 🔭 Working at We Are Immersive
+- 🔭 Working at Infinite Form
 
 - 🕸 Working on Web projects in my own time
 
