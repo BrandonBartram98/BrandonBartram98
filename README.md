@@ -17,6 +17,3 @@
 
 - [`My Personal Site`](https://brandonbartram.dev/)
 
-<br />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrandonBartram98)](https://git.io/streak-stats)
