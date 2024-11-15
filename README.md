@@ -13,7 +13,5 @@
 
 - 🔭 Working at Infinite Form
 
-- 🕸 Working on Web projects in my own time
-
 - [`My Personal Site`](https://brandonbartram.dev/)
 
