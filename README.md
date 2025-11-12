@@ -11,7 +11,5 @@
 
 - 🧑‍💻 Game & Web Developer
 
-- 🔭 Working at Infinite Form
-
 - [`My Personal Site`](https://brandonbartram.dev/)
 
