@@ -35,29 +35,9 @@ I build **immersive, interactive experiences** from WebGL-powered frontends to V
 
 ---
 
-## `> stack`
-
-<div align="center">
-
-**Game & XR**
-
-[![My Skills](https://skillicons.dev/icons?i=unity,cs&theme=dark)](https://brandonbartram.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,threejs,tailwind,html,css,gsap&theme=dark)](https://brandonbartram.dev)
-
-**Backend & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,mysql,git,github,vscode&theme=dark)](https://brandonbartram.dev)
-
-</div>
-
----
-
 ## `> hire_me`
 
-I'm **available for freelance work** — whether that's a Unity XR build, a Three.js web experience, a full-stack product, or a rapid prototype. I'm comfortable working independently or integrating with an existing team.
+I'm **available for freelance work** - whether its a Unity XR build, a Three.js web experience, a full-stack product, or a rapid prototype. I'm comfortable working independently or integrating with an existing team.
 
 📬 [contact@brandonbartram.dev](mailto:contact@brandonbartram.dev) &nbsp;·&nbsp; 🌐 [brandonbartram.dev](https://brandonbartram.dev)
 
