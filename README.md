@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:336699&height=120&section=header&animation=fadeIn" width="100%"/>
-
 # Brandon Bartram
-
-<a href="https://brandonbartram.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=336699&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Web+%26+Game+Developer+%7C+Norwich%2C+UK;Unity+%E2%80%A2+React+%E2%80%A2+Three.js+%E2%80%A2+XR" alt="Typing SVG" />
-</a>
 
 <br/>
 
@@ -42,7 +36,5 @@ I'm **available for freelance work** - whether its a Unity XR build, a Three.js 
 📬 [contact@brandonbartram.dev](mailto:contact@brandonbartram.dev) &nbsp;·&nbsp; 🌐 [brandonbartram.dev](https://brandonbartram.dev)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:336699,100:0a0a0a&height=80&section=footer" width="100%"/>
 
 </div>
