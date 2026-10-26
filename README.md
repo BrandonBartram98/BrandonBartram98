@@ -15,16 +15,6 @@
 
 ## `> whoami`
 
-```ts
-const brandon = {
-  role:       "Web & Unity Developer",
-  location:   "Norwich, UK 🇬🇧",
-  available:  true,
-  focus:      ["XR experiences", "Interactive Sites", "Unity Apps"],
-  currently:  "Freelancing - open to new projects",
-};
-```
-
 I build **immersive, interactive experiences** from WebGL-powered frontends to VR/AR applications in Unity. I've shipped projects for major international brands and enjoy working at the intersection of technology and creativity.
 
 ---
